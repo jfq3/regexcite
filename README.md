@@ -1,0 +1,2 @@
+# regexcite
+Split a string
